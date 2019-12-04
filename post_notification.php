@@ -3,6 +3,7 @@
 	<title>Simple Notification</title>
 </head>
 <body>
+	<?php?>
 	<form method="post" action="insert.php">
 		<p>
 			Title: <input type="text" name="title"/>
