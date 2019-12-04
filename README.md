@@ -1,3 +1,6 @@
+PHP, MySQL
+
+
 # Simple-Noticeboard
 Simple Notice Board   
    
